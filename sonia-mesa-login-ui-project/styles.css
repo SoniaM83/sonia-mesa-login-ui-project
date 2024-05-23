@@ -17,8 +17,8 @@ body {
     width: 250px;
     text-align: center;
     background-color: #468D8B78;
-    border-radius:5%;
-    box-shadow: 0px 0px 10px 0px #0b0f0ed6;
+    border-radius:50%;
+    box-shadow: 20px 0px 20px 0px #0b0f0ed6;
     padding: 50px;
     align-self: center;
   }
