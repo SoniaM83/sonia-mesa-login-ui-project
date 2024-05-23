@@ -1,10 +1,9 @@
 body {
-    font-family: cursive;
     margin: 0;
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url(https://images.pexels.com/photos/24286650/pexels-photo-24286650.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-image: url(https://images.pexels.com/photos/24286650/pexels-photo-24286650.jpeg?);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,6 +14,8 @@ body {
 
 .login-container {
     width: 250px;
+    min-width: 175px;
+    min-height: 25px;
     text-align: center;
     background-color: #468D8B78;
     border-radius:50%;
