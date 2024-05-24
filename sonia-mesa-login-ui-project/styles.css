@@ -14,7 +14,7 @@ body {
 
 .login-container {
     width: 40%;
-    min-width: 175px;
+    min-width: 150px;
     text-align: center;
     background-color: #468D8B78; /*Adjusted opacity */
     border-radius:50%; /* Rounded */
